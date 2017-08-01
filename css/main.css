@@ -1,0 +1,53 @@
+body {
+  margin-top: 10%;
+  background-color: #f7f7f7;
+  color: #9ad3de;
+  font-family: 'Roboto', sans-serif;
+}
+
+/*Seach box*/
+.input-group {
+  width: 55%;
+  margin: auto;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+p {
+  color:black;
+}
+
+/*Results*/
+#results {
+    margin-top: 5%;
+    color: black;
+    text-align: left;
+}
+
+img {
+  height: 170px;
+  width: 150px;
+  float: left;
+  padding-right: 2em;
+  margin: 0 2em 0;
+}
+
+
+h2 {
+  color: #08c;
+  font-size: 20px;
+}
+
+h3, h4 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+#results p {
+  margin-bottom: 10%;
+  align-content: center;
+  overflow-x: hidden;
+}
